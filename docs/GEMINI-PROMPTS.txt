@@ -1,0 +1,56 @@
+Yu-Gi-Oh! Card Art Generation Prompts for Gemini
+================================================
+
+Copy and paste these one by one into Gemini to test image generation.
+
+---
+
+PROMPT 1: Master of Beef Cuts (Cooking Task - 75% quiz score)
+---
+Create a Yu-Gi-Oh! trading card illustration in official anime art style: A powerful warrior chef in crimson and gold armor, standing confidently in a professional kitchen engulfed in flames. They hold a glowing Damascus steel chef's knife in one hand and a large ribeye steak in the other. Behind them, ethereal glowing diagrams of a cow with different cuts labeled (Chuck, Rib, Loin, Round) float in the air like magical runes. The warrior wears a tall chef's hat that flows like a cape. The kitchen has industrial stainless steel surfaces reflecting orange flames. Dramatic lighting from above. Style requirements: bold black outlines, dynamic pose, epic fantasy aesthetic, highly detailed, official TCG quality, vibrant colors, dramatic atmosphere. 6-star monster, FIRE attribute.
+
+---
+
+PROMPT 2: Memory Architect of the Digital Realm (AI Task - 100% quiz score)
+---
+Create a Yu-Gi-Oh! trading card illustration in official anime art style: An ethereal spellcaster in flowing white and electric blue robes covered in circuit patterns and glowing neural network diagrams. They float in a vast digital space filled with floating transparent cubes containing memories - some cubes glow gold (long-term memory), others pulse blue (short-term memory), and some shimmer green (episodic memory). The spellcaster has both hands raised, conjuring a massive holographic brain made of light particles and data streams. Around them, chains of binary code flow like magical energy. Background: infinite library of glowing data shelves fading into darkness. Dramatic upward angle. Style requirements: bold black outlines, mystical atmosphere, detailed lighting effects, powerful pose, official TCG quality, epic scale. 8-star monster, LIGHT attribute.
+
+---
+
+PROMPT 3: Flank Steak Flame Striker (Cooking Action Item - completed with photo)
+---
+Create a Yu-Gi-Oh! trading card illustration in official anime art style: A fierce warrior wielding dual curved blades that look like tenderized flank steaks, both blades engulfed in roaring flames. The warrior wears lightweight armor made of grilled vegetables (peppers, onions) as shoulder guards. They're mid-action, leaping through the air with trails of fire and sizzling oil droplets around them. Background: A large cast-iron skillet the size of an arena, with flames erupting from its surface. The warrior has a determined expression, and their blades leave streak marks of flame in the air. Warm orange and red color palette. Style requirements: bold black outlines, dynamic action pose, motion blur effects, dramatic lighting from below, official TCG quality, vibrant colors. 7-star monster, FIRE attribute.
+
+---
+
+PROMPT 4: Buffer Memory Guardian (Coding Action Item - PR submitted)
+---
+Create a Yu-Gi-Oh! trading card illustration in official anime art style: A sleek robotic guardian knight made of translucent blue crystal and chrome, standing in a defensive pose with a large rectangular shield. The shield displays scrolling conversation text and chat messages flowing across its surface like a living screen. The guardian's body has glowing blue circuit lines and their other hand holds a data-stream sword made of pure light. Behind them, a protective barrier made of hexagonal force fields displays recent conversation history. The background shows a digital landscape with floating chat bubbles and text fragments. Cool blue and white color scheme. Style requirements: bold black outlines, clean mechanical design, futuristic aesthetic, glowing effects, official TCG quality, detailed. 5-star monster, LIGHT attribute.
+
+---
+
+PROMPT 5: Plumber's Wrench Titan (Plumbing Learning Task - 80% quiz score)
+---
+Create a Yu-Gi-Oh! trading card illustration in official anime art style: A massive mechanical titan made of brass pipes, copper fittings, and industrial valves. The titan holds an enormous glowing pipe wrench crackling with blue water energy. Water constantly flows through transparent pipes visible in the titan's body. The titan stands in a flooded basement environment with exposed pipes on the walls. Around them, smaller pipe segments orbit like satellites, and water droplets float in the air frozen in time. Steam vents from various joints. The titan has a determined, friendly face with goggles. Background: maze of pipes and plumbing infrastructure. Blue and metallic copper color palette. Style requirements: bold black outlines, mechanical detail, dramatic lighting, powerful stance, official TCG quality. 6-star monster, WATER attribute.
+
+---
+
+PROMPT 6: MemGPT Prototype Summoner (Major Project - 8 hours completed)
+---
+Create a Yu-Gi-Oh! trading card illustration in official anime art style: An enigmatic spellcaster in a long dark coat covered in glowing purple code and memory fragments. They stand at the center of a massive summoning circle made of interconnected neural networks and data streams. With arms spread wide, they're conjuring a towering holographic figure - a fusion of an AI assistant and an ancient wizard, made of swirling memories, code, and light. Behind the summoner, three ethereal memory orbs float (one labeled "Short-term", one "Long-term", one "Procedural"), connected by glowing purple chains. The ground is a digital grid extending to infinity. Lightning bolts of data strike around them. Dramatic purple, blue, and gold color scheme. Style requirements: bold black outlines, epic scale, intricate details, powerful summoning pose, mystical energy effects, official TCG quality. 9-star monster, DARK attribute.
+
+---
+
+TESTING CHECKLIST:
+☐ Which prompts generate the best quality cards?
+☐ Does the Yu-Gi-Oh! style come through clearly?
+☐ Are task themes recognizable in the art?
+☐ Do different difficulty levels (star ratings) look different?
+☐ Are the images distinct enough from each other?
+☐ Would users be excited to collect these?
+
+NEXT STEPS AFTER TESTING:
+- Adjust prompt templates based on results
+- Consider rarity system (holographic for perfect scores)
+- Decide if worth implementing in MVP or V1.0
+- Estimate image generation costs at scale
