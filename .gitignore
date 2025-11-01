@@ -77,3 +77,7 @@ secrets.json
 # User uploaded files (if storing locally during development)
 uploads/
 media/
+
+# Test outputs (can be regenerated)
+backend/tests/discovery_result_*.json
+backend/tests/generated_content_*.md

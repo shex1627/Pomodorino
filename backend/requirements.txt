@@ -1,0 +1,16 @@
+# Core dependencies
+anthropic==0.39.0
+python-dotenv==1.0.0
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# HTTP client for API calls
+httpx==0.27.2
+aiohttp==3.11.7
+
+# YouTube API
+google-api-python-client==2.154.0
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.24.0

@@ -1,0 +1,248 @@
+
+╔════════════════════════════════════════════════════════════════╗
+║                  Discovery Agent Test Suite                    ║
+╚════════════════════════════════════════════════════════════════╝
+
+This will test the Content Discovery Agent with 3 sample interests:
+1. Cooking beef cuts
+2. AI agent memory management
+3. Plumbing basics
+
+Make sure you have set up your .env file with:
+- ANTHROPIC_API_KEY (required)
+- YOUTUBE_API_KEY (optional, for video search)
+
+
+
+🎯 INTEREST: Learn to cook different parts of beef (prefer dishes under 15 min)
+   Priority: 7/10
+
+📊 ANALYSIS:
+   Difficulty: beginner
+   Key Topics: Quick-cooking beef cuts identification (tenderloin, sirloin, flank, skirt steak), Fast beef cooking techniques (pan-searing, stir-frying, broiling), Beef doneness levels and temperature timing, 15-minute beef recipe categories (stir-fries, steaks, beef strips), Beef preparation basics (slicing against grain, marinades, seasoning)
+   Learning Goals:
+     - Identify which beef cuts cook in under 15 minutes and why
+     - Master pan-searing technique for steaks (3-5 min per side)
+     - Learn proper slicing techniques for different beef cuts
+     - Execute 3-5 quick beef recipes with confidence
+     - Understand beef doneness without overcooking
+
+📹 RESOURCES FOUND: 9
+   - [video] Gordon Ramsay&#39;s ULTIMATE COOKERY COURSE: How to Cook the Perfect Steak
+     URL: https://www.youtube.com/watch?v=AmC9SmCBUj4
+     Duration: 3 min
+   - [video] Cast Iron Steak!
+     URL: https://www.youtube.com/watch?v=1teWomZy9WQ
+     Duration: 1 min
+   - [video] Master the Art of Pan Fried Steaks
+     URL: https://www.youtube.com/watch?v=dvRGLib8PLk
+     Duration: 1 min
+
+📚 SUGGESTED THINGS: 5
+
+   📖 Steak Doneness Mastery: Temperature & Timing Fundamentals
+      Type: tutorial
+      Total Time: 25 min
+      Tasks: 3
+      Tasks outline:
+         1. Understanding Doneness Levels: Visual & Temperature Guide (8 min)
+            Resource: https://www.youtube.com/watch?v=SOAfzw4KR0E
+         2. Quick Reference: Steak Temperature Chart Study (7 min)
+            Resource: https://www.youtube.com/watch?v=ktnqsJGHzMI
+         3. Touch Test & Timing Practice Exercise (10 min)
+
+   📖 Perfect Pan-Seared Steak in 10 Minutes
+      Type: tutorial
+      Total Time: 30 min
+      Tasks: 4
+      Tasks outline:
+         1. Gordon Ramsay's Perfect Steak Technique (8 min)
+            Resource: https://www.youtube.com/watch?v=AmC9SmCBUj4
+         2. Cast Iron Pan Method for Optimal Sear (6 min)
+            Resource: https://www.youtube.com/watch?v=1teWomZy9WQ
+         3. Pan-Frying Technique Breakdown & Tips (8 min)
+            Resource: https://www.youtube.com/watch?v=dvRGLib8PLk
+         4. Pre-Cook Preparation Checklist & Setup (8 min)
+
+   📖 Budget-Friendly Beef: Transforming Cheap Cuts
+      Type: learning_material
+      Total Time: 20 min
+      Tasks: 3
+      Tasks outline:
+         1. Cheap Cut Selection & Tenderizing Secrets (7 min)
+            Resource: https://www.youtube.com/watch?v=K5w3ZyI4OA0
+         2. Quick-Cooking Beef Cuts Identification Guide (8 min)
+         3. Slicing Against the Grain: Technique & Why It Matters (5 min)
+
+   📖 15-Minute Beef Recipe Collection: Stir-Fry & Bites
+      Type: recipe
+      Total Time: 35 min
+      Tasks: 4
+      Tasks outline:
+         1. 15-Minute Mongolian Beef Stir-Fry Walkthrough (8 min)
+            Resource: https://www.youtube.com/watch?v=1BaD2XKsRtg
+         2. Recipe Analysis: Ingredients & Prep Strategy (7 min)
+         3. Garlic Steak Bites: Quick Appetizer or Main (10 min)
+            Resource: https://www.youtube.com/watch?v=7PB1DBnFzoM
+         4. Stir-Fry Technique: High Heat & Quick Cooking Principles (10 min)
+
+   📖 Your First Quick Beef Cook: Hands-On Practice Project
+      Type: project
+      Total Time: 40 min
+      Tasks: 5
+      Tasks outline:
+         1. Recipe Selection & Shopping List Creation (8 min)
+         2. Mise en Place: Prep Work & Organization (8 min)
+         3. Cook Along: Step-by-Step Execution (10 min)
+         4. Plating & Presentation Basics (6 min)
+         5. Self-Assessment & Improvement Notes (8 min)
+
+💾 Full result saved to: /Users/shadowclone/Desktop/Code/pomodorino/backend/tests/discovery_result_1.json
+
+🎯 INTEREST: I want to learn about AI agent memory management
+   Priority: 10/10
+
+📊 ANALYSIS:
+   Difficulty: intermediate
+   Key Topics: Short-term vs long-term memory architectures in AI agents, Vector databases and embedding-based memory retrieval, Memory compression and summarization techniques, Context window management and memory optimization, Practical memory implementations (LangChain, LlamaIndex, AutoGPT patterns)
+   Learning Goals:
+     - Understand different memory types (episodic, semantic, procedural) in AI agents
+     - Learn how to implement vector-based memory storage and retrieval
+     - Master techniques for managing context windows and token limits
+     - Build a simple agent with persistent memory capabilities
+     - Evaluate trade-offs between memory strategies (speed, cost, accuracy)
+
+📹 RESOURCES FOUND: 8
+   - [video] Agentic RAG vs RAGs
+     URL: https://www.youtube.com/watch?v=4jYZg6pkXyc
+     Duration: 0 min
+   - [video] How Does Rag Work? - Vector Database and LLMs #datascience #naturallanguageprocessing #llm #gpt
+     URL: https://www.youtube.com/watch?v=xS55duPS-Pw
+     Duration: 1 min
+   - [video] What is MCP? Integrate AI Agents with Databases &amp; APIs
+     URL: https://www.youtube.com/watch?v=eur8dUO9mvE
+     Duration: 4 min
+
+📚 SUGGESTED THINGS: 5
+
+   📖 Understanding Memory Types in AI Agents
+      Type: learning_material
+      Total Time: 25 min
+      Tasks: 3
+      Tasks outline:
+         1. Introduction to RAG and Vector-Based Memory (8 min)
+            Resource: https://www.youtube.com/watch?v=CbAQUqnrDcA
+         2. How Vector Databases Enable Memory Retrieval (8 min)
+            Resource: https://www.youtube.com/watch?v=xS55duPS-Pw
+         3. Memory Types: Episodic, Semantic, and Procedural (9 min)
+
+   📖 Building Your First Agent with Memory Using LangChain
+      Type: tutorial
+      Total Time: 35 min
+      Tasks: 4
+      Tasks outline:
+         1. Understanding LangChain Memory Concepts (8 min)
+            Resource: https://www.youtube.com/watch?v=9pxFL7tNAlA
+         2. Setting Up Your Development Environment (7 min)
+         3. Implementing Conversation Buffer Memory (10 min)
+         4. Testing and Debugging Your Memory Agent (10 min)
+
+   📖 Advanced Memory: Long-Term Agentic Memory with LangGraph
+      Type: learning_material
+      Total Time: 30 min
+      Tasks: 4
+      Tasks outline:
+         1. Introduction to Long-Term Agentic Memory (8 min)
+            Resource: https://www.youtube.com/watch?v=9E1e3ZW3-pw
+         2. Context Window Management Strategies (8 min)
+         3. Memory Compression and Summarization Techniques (7 min)
+         4. Implementing Persistent Memory Storage (7 min)
+
+   📖 From RAG to Agentic RAG: Evolution of Memory Systems
+      Type: case_study
+      Total Time: 25 min
+      Tasks: 3
+      Tasks outline:
+         1. Agentic RAG vs Traditional RAG (8 min)
+            Resource: https://www.youtube.com/watch?v=4jYZg6pkXyc
+         2. Analyzing Memory Trade-offs: Speed, Cost, and Accuracy (9 min)
+         3. Real-World Memory Architecture Patterns (8 min)
+
+   📖 Build a Personal Memory System: Integration Project
+      Type: project
+      Total Time: 40 min
+      Tasks: 5
+      Tasks outline:
+         1. Understanding MCP for Agent Integration (8 min)
+            Resource: https://www.youtube.com/watch?v=eur8dUO9mvE
+         2. Designing Your Memory Architecture (8 min)
+         3. Implementing Vector Storage and Retrieval (10 min)
+         4. Building the Agent Loop with Memory Updates (8 min)
+         5. Testing and Evaluating Memory Performance (6 min)
+
+💾 Full result saved to: /Users/shadowclone/Desktop/Code/pomodorino/backend/tests/discovery_result_2.json
+
+🎯 INTEREST: Learn plumbing basics for home maintenance
+   Priority: 3/10
+
+📊 ANALYSIS:
+   Difficulty: beginner
+   Key Topics: Basic plumbing tools and their uses, Common household plumbing problems (leaks, clogs, drips), Pipe types and fittings identification, Water shut-off valves and emergency procedures, Preventive maintenance for drains and fixtures
+   Learning Goals:
+     - Identify and use essential plumbing tools (plunger, wrench, snake)
+     - Fix a leaky faucet or running toilet
+     - Unclog drains using basic techniques
+     - Locate and operate main water shut-off valve
+     - Perform routine maintenance to prevent common issues
+
+📹 RESOURCES FOUND: 9
+   - [video] 10 Plumbing Tools You Need!
+     URL: https://www.youtube.com/watch?v=rSiiuM1emkM
+     Duration: 0 min
+   - [video] Plumbing Tool Essentials for Beginners | Ask This Old House
+     URL: https://www.youtube.com/watch?v=4XhswR5UGck
+     Duration: 4 min
+   - [video] Plumbing physics 101!! 🤫#plumbing #diy #homeinspection
+     URL: https://www.youtube.com/watch?v=q7PFqidWkMY
+     Duration: 0 min
+
+📚 SUGGESTED THINGS: 3
+
+   📖 Essential Plumbing Tools & Their Uses
+      Type: tutorial
+      Total Time: 25 min
+      Tasks: 3
+      Tasks outline:
+         1. Watch: Professional Overview of Essential Tools (5 min)
+            Resource: https://www.youtube.com/watch?v=4XhswR5UGck
+         2. Create Your Home Plumbing Toolkit Checklist (10 min)
+         3. Tool Safety & Proper Usage Guide (10 min)
+
+   📖 Fix a Leaky Faucet: Step-by-Step
+      Type: project
+      Total Time: 30 min
+      Tasks: 4
+      Tasks outline:
+         1. Quick Overview: Faucet Leak Basics (5 min)
+            Resource: https://www.youtube.com/watch?v=RUX3U6CIRXI
+         2. Detailed Repair Walkthrough (10 min)
+            Resource: https://www.youtube.com/watch?v=SYPFon69vKs
+         3. Identify Your Faucet Type & Required Parts (8 min)
+         4. Create Your Repair Action Plan (7 min)
+
+   📖 Unclog Drains Like a Pro
+      Type: recipe
+      Total Time: 28 min
+      Tasks: 4
+      Tasks outline:
+         1. Natural Method: Baking Soda & Vinegar Technique (7 min)
+            Resource: https://www.youtube.com/watch?v=4u0sMRKb0NY
+         2. Professional Quick-Fix Method (5 min)
+            Resource: https://www.youtube.com/watch?v=WbfKS_6VNY0
+         3. Bathroom Drain Cleaning Tutorial (6 min)
+            Resource: https://www.youtube.com/watch?v=hdnJRFgVW-M
+         4. Drain Maintenance Prevention Checklist (10 min)
+
+💾 Full result saved to: /Users/shadowclone/Desktop/Code/pomodorino/backend/tests/discovery_result_3.json
+
+✅ All tests completed!
