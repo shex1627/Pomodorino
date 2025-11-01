@@ -81,3 +81,4 @@ media/
 # Test outputs (can be regenerated)
 backend/tests/discovery_result_*.json
 backend/tests/generated_content_*.md
+backend/tests/quiz_*.json
